@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+app/data/safescope.db
+.pytest_cache/
+server.log
+venv/
+.env

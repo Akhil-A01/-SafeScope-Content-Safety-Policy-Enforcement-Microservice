@@ -1,0 +1,56 @@
+text,label,category
+"Hey, are we still meeting for the study group tomorrow?",safe,none
+"I finished my homework, can I play games now?",safe,none
+"Can you help me with my math assignment?",safe,none
+"The weather is really nice today, let's go outside",safe,none
+"I love this new song, have you heard it?",safe,none
+"What time does the movie start tonight?",safe,none
+"Thanks for helping me with the project",safe,none
+"Can we go to the park after school?",safe,none
+"I got an A on my test today!",safe,none
+"Let's plan a birthday party for mom",safe,none
+"Did you watch the game last night?",safe,none
+"I'm going to bed early tonight",safe,none
+"This recipe looks delicious, let's try it",safe,none
+"How was your day at school?",safe,none
+"I finished reading that book you recommended",safe,none
+"Let's do a video call this weekend",safe,none
+"My favorite subject is science",safe,none
+"Can you send me the notes from class?",safe,none
+"I'm excited for the field trip",safe,none
+"Good morning, have a great day!",safe,none
+"Can we reschedule practice to Friday?",safe,none
+"I need help picking a topic for my essay",safe,none
+"The library closes at 6pm today",safe,none
+"Let's meet at the coffee shop at noon",safe,none
+"Congrats on making the team!",safe,none
+"Can you proofread my essay before I submit it?",safe,none
+"What's the homework for tomorrow?",safe,none
+"I'm learning to play guitar this summer",safe,none
+"Let's carpool to school tomorrow",safe,none
+"Happy birthday! Hope you have a great day",safe,none
+"You are so stupid, nobody likes you",unsafe,harassment
+"Shut up you idiot, get lost",unsafe,harassment
+"I hate you, you're worthless",unsafe,harassment
+"This is such a dumb waste of time, you moron",unsafe,harassment
+"Click this link to win free money now!!!",unsafe,spam
+"Buy cheap watches here, limited offer, click now",unsafe,spam
+"You're ugly and everyone hates you",unsafe,harassment
+"Get lost loser, nobody wants you here",unsafe,harassment
+"Warning: this site hosts explicit adult content",unsafe,adult_content
+"Free adult content, click to view now",unsafe,adult_content
+"You're a pathetic waste of space",unsafe,harassment
+"I'm going to hurt you if you don't back off",unsafe,threat
+"Everyone thinks you're a joke, quit already",unsafe,harassment
+"Send your bank details now to claim the prize",unsafe,spam
+"This casino site pays instant cash, join now",unsafe,spam
+"You're too dumb to understand anything",unsafe,harassment
+"Nobody would care if you disappeared",unsafe,harassment
+"This page contains graphic violent content",unsafe,violence
+"Win a free iPhone, click here immediately",unsafe,spam
+"I'll make you regret this, watch out",unsafe,threat
+"You're such a loser, just give up",unsafe,harassment
+"Claim your free gift card now, limited spots",unsafe,spam
+"This forum is full of explicit nsfw material",unsafe,adult_content
+"Stop talking, nobody cares what you think",unsafe,harassment
+"I will find you and make you pay",unsafe,threat
